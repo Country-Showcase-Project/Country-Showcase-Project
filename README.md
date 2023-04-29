@@ -35,12 +35,7 @@ Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.co
 - Seyfettin GOK - Developer 
 - Mehmet Mert FIDAN - Developer 
 - Hicran APAYDIN- Developer 
-
-## Görev Dağılımı
-
-Proje,Proje Tabanlı Görev Dağılımı 
      
-
 ## Projede Kullanılan Teknolojiler
 
 - React
@@ -101,9 +96,7 @@ Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmai
 - Seyfettin GOK - Developer
 - Mehmet Mert FIDAN - Developer
 - Hicran APAYDIN- Developer
-## Task Distribution in the Project
-The project will have a task-based distribution.
-
+- 
 ## Technologies Used in the Project
 - React
 - Html
