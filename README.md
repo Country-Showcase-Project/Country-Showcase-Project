@@ -116,3 +116,15 @@ The project will have a task-based distribution.
 - Git (for git clone)
 ## Running the Project in a Local Environment
 Copy the code:
+     
+     git clone https://github.com/Country-Showcase-Project/Country-Showcase-Project
+    
+Paste the code into the cmd screen
+
+Then paste the following codes into the cmd screen:
+     
+     cd Country-Showcase-Project
+     npm install
+     npm start
+     
+After doing these, the project should open in a browser page.
