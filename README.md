@@ -64,6 +64,10 @@ sonra kodları cmd ekranına yapıştır:
      npm start
      
 Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir. 
+
+## Proje Durumu 
+
+[#################..................]%50..
 # [EN]
 
 
