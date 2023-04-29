@@ -67,7 +67,7 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 
 ## Proje Durumu 
 
-[#################..................]%50..
+[#################...........................]%50..
 # [EN]
 
 
