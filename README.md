@@ -49,7 +49,6 @@ Proje,Proje Tabanlı Görev Dağılımı
 - Javascript
 - Tailwind v3.2.7
 - Node.js v18.14.1
-- git
 
 ## Projenin Yerel Ortamda Çalışması için Gerekenler
 
@@ -69,5 +68,27 @@ sonra kodları cmd ekranına yapıştır:
      npm install
      npm start
      
-Proje     
+Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir. 
 # [EN]
+
+
+A project that visualizes the world map in 2D and 3D and allows users to recognize countries and learn about them.
+
+<h2 align="center">
+BLM0324_Software Engineering Project Assignment
+</h2>
+Project Purpose
+To facilitate learning about countries by visualizing information about countries on the world map. Especially, to enable children to learn new information about countries.
+
+## Project Goals
+- To provide up-to-date information to users.
+- To ensure that the project works in an optimized manner.
+## Software Methodology Used
+We will use the Scrum methodology. This methodology is a development methodology based on Agile methods and includes both development and testing processes at the same time. This approach allows customer feedback to be quickly taken into account and increases the flexibility and rapid response capabilities of the project team.
+
+## We Want to See You With Us!
+Hey! Developer. Yes, you! We invite you to work with us. We know that you have enough capacity. You can help people learn about countries with us. Come on, let's do this project together.
+
+![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
+
+Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmail.com
