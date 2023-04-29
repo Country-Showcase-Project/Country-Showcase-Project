@@ -6,6 +6,8 @@
 <h3 align="center">3. Sınıf Bahar Dönemi Yazılım Mühendisliği Dersi Proje Ödevi</h3>
 
 ## Proje Amacı
+Dünya üzerindeki devletler hakkında bilgileri görselleştirerek öğrenmeyi kolaylaştırmak. Özellikle çocukların yeni bilgiler öğrenmesini sağlamak.
+
 
 ## Proje Hedefleri
 
