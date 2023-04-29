@@ -3,7 +3,7 @@
 
 Ülkeleri tanıyabileceğiniz ve ülkeler hakkında bilgi edinebileceğiniz, dünya haritasının 2 boyutlu ve 3 boyutlu olarak görselleştirildiği bir proje.
 <h2 align="center">
-3. Sınıf BLM0324_Yazılım Mühendisliği Dersi Ödevi
+BLM0324_Yazılım Mühendisliği Proje Ödevi
 </h2>
 
 ## Proje Amacı
