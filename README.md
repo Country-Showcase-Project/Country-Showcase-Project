@@ -16,3 +16,5 @@
 ## Projenin Yerel Ortamda Çalıştırılması
 
 ## Seni Yanımızda Görmek İstiyoruz!
+
+Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle İnsanların Ülkeler hakkında bilgi edinmesini sağlayabilirsin. 
