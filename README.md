@@ -1,6 +1,6 @@
 # Country-Showcase-Project
 
-
+# [TR]
 Ülkeleri tanıyabileceğiniz ve ülkeler hakkında bilgi edinebileceğiniz, dünya haritasının 2 boyutlu ve 3 boyutlu olarak görselleştirildiği bir proje.
 <h2 align="center">
 BLM0324_Yazılım Mühendisliği Proje Ödevi
