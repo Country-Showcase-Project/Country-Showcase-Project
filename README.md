@@ -15,7 +15,7 @@ Dünya üzerindeki devletler hakkında bilgileri görselleştirerek öğrenmeyi 
 - Kullanıcılara güncel bilgiler vermek
 - Optimize bir şekilde çalışmasını sağlamak
 
-## Kullanılan Yazılım Metodolojisi
+## Kullanılacak Yazılım Metodolojisi
 
 Scrum metodolojisini kullanacağız. Bu metodoloji , Agile yöntemlerine dayanan bir geliştirme metodolojisidir ve aynı anda hem geliştirme hem de test süreçlerini içerir. Bu yaklaşım, müşteri geri bildirimlerinin hızlı bir şekilde dikkate alınmasına olanak tanır ve proje takımının esneklik ve hızlı tepki verme yeteneğini artırır.
 
@@ -84,7 +84,7 @@ To facilitate learning about countries by visualizing information about countrie
 - To provide up-to-date information to users.
 - To ensure that the project works in an optimized manner.
 
-## Software Methodology Used
+## Methodology for Software Development
 We will use the Scrum methodology. This methodology is a development methodology based on Agile methods and includes both development and testing processes at the same time. This approach allows customer feedback to be quickly taken into account and increases the flexibility and rapid response capabilities of the project team.
 
 ## We Want to See You With Us!
