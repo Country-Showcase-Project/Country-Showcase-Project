@@ -2,9 +2,9 @@
 
 
 Ülkeleri tanıyabileceğiniz ve ülkeler hakkında bilgi edinebileceğiniz, dünya haritasının 2 boyutlu ve 3 boyutlu olarak görselleştirildiği bir proje.
-<center>
-###  3. Sınıf BLM0324_Yazılım Mühendisliği Dersi Ödevi
-</center>
+<p align="center">
+3. Sınıf BLM0324_Yazılım Mühendisliği Dersi Ödevi
+</p>
 
 ## Proje Amacı
 Dünya üzerindeki devletler hakkında bilgileri görselleştirerek öğrenmeyi kolaylaştırmak. Özellikle çocukların yeni bilgiler öğrenmesini sağlamak.
