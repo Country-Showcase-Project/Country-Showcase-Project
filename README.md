@@ -128,4 +128,4 @@ After doing these, the project should open in a browser page.
 
 ## Project Status
 
-[##############...........................]%50..
+[##############...........................] %50
