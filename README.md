@@ -51,8 +51,23 @@ Proje,Proje Tabanlı Görev Dağılımı
 - Node.js v18.14.1
 - git
 
+## Projenin Yerel Ortamda Çalışması için Gerekenler
+
+- Node.js
+- Git (git clone için)
+
 ## Projenin Yerel Ortamda Çalıştırılması
 Kodu kopyala:
-     git clone https://github.com/Country-Showcase-Project/Country-Showcase-Project
+    
+    git clone https://github.com/Country-Showcase-Project/Country-Showcase-Project
+    
+cmd ekranına kodu yapıştır.
 
+sonra kodları cmd ekranına yapıştır:
+     
+     cd Country-Showcase-Project
+     npm install
+     npm start
+     
+Proje     
 # [EN]
