@@ -49,7 +49,10 @@ Proje,Proje Tabanlı Görev Dağılımı
 - Javascript
 - Tailwind v3.2.7
 - Node.js v18.14.1
+- git
 
 ## Projenin Yerel Ortamda Çalıştırılması
+Kodu kopyala:
+     git clone https://github.com/Country-Showcase-Project/Country-Showcase-Project
 
-
+# [EN]
