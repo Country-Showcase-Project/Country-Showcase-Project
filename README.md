@@ -17,6 +17,9 @@ Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterl
 
 Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.com
 
+![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
+
+
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
 - Ahmet Talha TURKMEN 
 - Seyfettin GOK 
