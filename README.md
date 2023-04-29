@@ -17,4 +17,6 @@
 
 ## Seni Yanımızda Görmek İstiyoruz!
 
-Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle İnsanların Ülkeler hakkında bilgi edinmesini sağlayabilirsin. 
+Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların Ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım.
+
+Katılım için şu adrese mail atmanız yeterli!  ahmettalhaturkmen2001@gmail.com
