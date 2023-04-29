@@ -17,6 +17,13 @@ Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.co
 
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
 
+      <ul>
+        <li>Ahmet Talha TURKMEN -</li>
+        <li>Seyfettin GOK -</li>
+        <li>Mehmet Mert FIDAN -</li>
+        <li>Hicran APAYDIN</li>
+      </ul>
+
 ## Projede Kullanılan Teknolojiler
 
 ## Projenin Yerel Ortamda Çalıştırılması
