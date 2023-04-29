@@ -125,3 +125,7 @@ Then paste the following codes into the cmd screen:
      npm start
      
 After doing these, the project should open in a browser page.
+
+## Project Status
+
+[##############...........................]%50..
