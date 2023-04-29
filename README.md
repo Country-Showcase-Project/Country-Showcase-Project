@@ -8,8 +8,9 @@
 ## Proje Amacı
 Dünya üzerindeki devletler hakkında bilgileri görselleştirerek öğrenmeyi kolaylaştırmak. Özellikle çocukların yeni bilgiler öğrenmesini sağlamak.
 
-
 ## Proje Hedefleri
+- Optimize bir şekilde çalışmasını sağlamak
+- Kullanıcılara güncel bilgiler vermek
 
 ## Seni Yanımızda Görmek İstiyoruz!
 
