@@ -28,13 +28,14 @@ Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.co
 
 ![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
 
-## Takım Üyeleri , Yetkinlikleri
+## Takım Üyeleri , Yetkinlikleri ve Görevleri
 
-- ChatGPT - Developer
-- Ahmet Talha TURKMEN - Developer 
-- Seyfettin GOK - Developer 
-- Mehmet Mert FIDAN - Developer 
-- Hicran APAYDIN- Developer 
+- ChatGPT - Developer - 
+- Ahmet Talha TURKMEN - React / Html / Css / Javascript / Node.js - Araştırmacı / Kodlayıcı / Github Sorumlusu
+- Seyfettin GOK - React / Html / Css / Javascript / Node.js - Araştırmacı / Kodlayıcı 
+- Mehmet Mert FIDAN - React / Html / Css / Javascript / Node.js - Araştırmacı / İletişim Sorumlusu / Tester
+- Hicran APAYDIN- React / Html / Css / Javascript / Node.js - Araştırmacı / Tasarım / Tester 
+
      
 ## Projede Kullanılan Teknolojiler
 
@@ -94,12 +95,12 @@ Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmai
 ![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
 
 
-## Team Members, Their Skills
+## Team Members, Skills, and Roles
 - ChatGPT - Developer
-- Ahmet Talha TURKMEN - Developer
-- Seyfettin GOK - Developer
-- Mehmet Mert FIDAN - Developer
-- Hicran APAYDIN- Developer
+- Ahmet Talha TURKMEN - React / Html / Css / Javascript / Node.js - Researcher / Coder / Github Manager
+- Seyfettin GOK - React / Html / Css / Javascript / Node.js - Researcher / Coder
+- Mehmet Mert FIDAN - React / Html / Css / Javascript / Node.js - Researcher / Communication Manager / Tester
+- Hicran APAYDIN- React / Html / Css / Javascript / Node.js - Researcher / Designer / Tester
 - 
 ## Technologies Used in the Project
 - React
