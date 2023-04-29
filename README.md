@@ -17,6 +17,8 @@ Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterl
 
 Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.com
 
+![uncle_sam kopya2](https://user-images.githubusercontent.com/75725469/235302835-3cf1e841-046e-40c2-874e-cb18794d323b.png)
+
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
 - Ahmet Talha TURKMEN 
 - Seyfettin GOK 
