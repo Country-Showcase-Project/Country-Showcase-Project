@@ -16,14 +16,12 @@ Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterl
 Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.com
 
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
-       <li> 
-      <ul>
-        <li>Ahmet Talha TURKMEN -</li>
-        <li>Seyfettin GOK -</li>
-        <li>Mehmet Mert FIDAN -</li>
-        <li>Hicran APAYDIN</li>
-      </ul>
-        </li>
+     
+       Ahmet Talha TURKMEN 
+       Seyfettin GOK 
+       Mehmet Mert FIDAN 
+       Hicran APAYDIN
+     
 
 ## Projede Kullanılan Teknolojiler
 
