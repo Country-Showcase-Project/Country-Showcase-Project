@@ -39,7 +39,7 @@ Takım üyeleri kullanılan teknolojilere
 - Css
 - Javascript
 - Tailwind 3.2.7
-- Node.js
+- Node.js v18.14.1
 
 ## Projenin Yerel Ortamda Çalıştırılması
 
