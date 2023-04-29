@@ -9,14 +9,16 @@
 
 ## Proje Hedefleri
 
+## Seni Yanımızda Görmek İstiyoruz!
+
+Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım.
+
+Katılım için şu adrese mail atmanız yeterli! -> ahmettalhaturkmen2001@gmail.com
+
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
 
 ## Projede Kullanılan Teknolojiler
 
 ## Projenin Yerel Ortamda Çalıştırılması
 
-## Seni Yanımızda Görmek İstiyoruz!
 
-Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların Ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım.
-
-Katılım için şu adrese mail atmanız yeterli! -> ahmettalhaturkmen2001@gmail.com
