@@ -14,3 +14,5 @@
 ## Projede Kullanılan Teknolojiler
 
 ## Projenin Yerel Ortamda Çalıştırılması
+
+## Seni Yanımızda Görmek İstiyoruz!
