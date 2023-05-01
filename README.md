@@ -25,9 +25,9 @@ Scrum metodolojisini kullanacağız. Bu metodoloji , Agile yöntemlerine dayanan
 Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım. Ayrıca projemizde finansal desteğe de ihtiyacımız var. 
 <br>SENİ YANIMIZIDA GORMEK ISTIYORUZ!
 
-Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.com
+Katılım için şu adrese mail atman yeterli! ->  ahmettalhaturkmen2001@gmail.com
 
-
+  
 ![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
 
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
@@ -158,6 +158,6 @@ After doing these, the project should open in a browser page.
 ![WhatsApp Görsel 2023-04-01 saat 17 47 43](https://user-images.githubusercontent.com/75725469/235316070-681b070f-9840-4c45-b00f-c2ba05ef8c2d.jpg)
 
 
-## Project Status
+## Project Status 
 
-[##############...........................] %50
+[##############............................] %50
