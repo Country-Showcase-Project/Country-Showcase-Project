@@ -115,7 +115,7 @@ Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmai
 - Seyfettin GOK - React / Html / Css / Javascript / Node.js - Researcher / Coder
 - Mehmet Mert FIDAN - React / Html / Css / Javascript / Node.js - Researcher / Communication Manager / Tester
 - Hicran APAYDIN- React / Html / Css / Javascript / Node.js - Researcher / Designer / Tester
-- 
+ 
 ## Technologies Used in the Project
 - React
 - Html
