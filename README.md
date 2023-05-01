@@ -102,7 +102,7 @@ To facilitate learning about countries by visualizing information about countrie
 We will use the Scrum methodology. This methodology is a development methodology based on Agile methods and includes both development and testing processes at the same time. This approach allows customer feedback to be quickly taken into account and increases the flexibility and rapid response capabilities of the project team.
 
 ## We Want to See You With Us!
-Hey! Developer. Yes, you! We invite you to work with us. We know that you have enough capacity. You can help people learn about countries with us. Come on, let's do this project together.We also need financial support for our project. <br>
+Hey! Developer. Yes, you! We invite you to work with us. We know that you have enough capacity. You can help people learn about countries with us. Come on, let's do this project together.Additionally, we need financial support for our project. 
 <br>We Want to See You With Us!
 Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmail.com
 
