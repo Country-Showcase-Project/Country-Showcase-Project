@@ -23,7 +23,7 @@ Scrum metodolojisini kullanacağız. Bu metodoloji , Agile yöntemlerine dayanan
 ## Seni Yanımızda Görmek İstiyoruz!
 
 Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım. Ayrıca projemizde finansal desteğe de ihtiyacımız var. 
-SENİ YANIMIZIDA GORMEK ISTIYORUZ!
+<br>SENİ YANIMIZIDA GORMEK ISTIYORUZ!
 
 Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.com
 
