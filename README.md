@@ -107,6 +107,7 @@ We will use the Scrum methodology. This methodology is a development methodology
 ## We Want to See You With Us!
 Hey! Developer. Yes, you! We invite you to work with us. We know that you have enough capacity. You can help people learn about countries with us. Come on, let's do this project together.Additionally, we need financial support for our project. 
 <br>We Want to See You With Us!
+
 Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmail.com
 
 ![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
