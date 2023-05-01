@@ -20,7 +20,7 @@ Dünya üzerindeki devletler hakkında bilgileri görselleştirerek öğrenmeyi 
 Scrum metodolojisini kullanacağız. Bu metodoloji , Agile yöntemlerine dayanan bir geliştirme metodolojisidir ve aynı anda hem geliştirme hem de test süreçlerini içerir. Bu yaklaşım, müşteri geri bildirimlerinin hızlı bir şekilde dikkate alınmasına olanak tanır ve proje takımının esneklik ve hızlı tepki verme yeteneğini artırır.
 
 
-## Seni Yanımızda Görmek İstiyoruz!
+## Seni Yanımızda Görmek İstiyoruz! 
 
 Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım. Ayrıca projemizde finansal desteğe de ihtiyacımız var. 
 <br>SENİ YANIMIZIDA GORMEK ISTIYORUZ!
