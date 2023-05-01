@@ -27,6 +27,7 @@ Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterl
 
 Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.com
 
+
 ![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
 
 ## Takım Üyeleri , Yetkinlikleri ve Görevleri
@@ -36,6 +37,7 @@ Katılım için şu adrese mail atman yeterli! -> ahmettalhaturkmen2001@gmail.co
 - Seyfettin GOK - React / Html / Css / Javascript / Node.js - Araştırmacı / Kodlayıcı 
 - Mehmet Mert FIDAN - React / Html / Css / Javascript / Node.js - Araştırmacı / İletişim Sorumlusu / Tester
 - Hicran APAYDIN- React / Html / Css / Javascript / Node.js - Araştırmacı / Tasarım / Tester 
+
 
      
 ## Projede Kullanılan Teknolojiler
@@ -83,6 +85,7 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 ## Proje Durumu 
 
 [##############...........................] %50
+
 # [EN]
 
 
