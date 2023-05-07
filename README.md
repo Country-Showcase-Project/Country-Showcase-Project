@@ -1,70 +1,163 @@
-# Getting Started with Create React App
+# Country-Showcase-Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [TR]
+Ülkeleri tanıyabileceğiniz ve ülkeler hakkında bilgi edinebileceğiniz, dünya haritasının 2 boyutlu ve 3 boyutlu olarak görselleştirildiği bir proje.
+<h2 align="center">
+BLM0324_Yazılım Mühendisliği Proje Ödevi
+</h2>
 
-## Available Scripts
+## Proje Amacı
 
-In the project directory, you can run:
+Dünya üzerindeki devletler hakkında bilgileri görselleştirerek öğrenmeyi kolaylaştırmak. Özellikle çocukların ülkeler hakkında yeni bilgiler öğrenmesini sağlamak.
 
-### `npm start`
+## Proje Hedefleri
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Kullanıcılara güncel bilgiler vermek
+- Optimize bir şekilde çalışmasını sağlamak
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Kullanılacak Yazılım Metodolojisi
 
-### `npm test`
+Scrum metodolojisini kullanacağız. Bu metodoloji , Agile yöntemlerine dayanan bir geliştirme metodolojisidir ve aynı anda hem geliştirme hem de test süreçlerini içerir. Bu yaklaşım, müşteri geri bildirimlerinin hızlı bir şekilde dikkate alınmasına olanak tanır ve proje takımının esneklik ve hızlı tepki verme yeteneğini artırır.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Seni Yanımızda Görmek İstiyoruz! 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Hey! Developer. Evet sen! Seni bizimle çalışmaya davet ediyorum. Senin yeterli kapasiteye sahip olduğunu biliyoruz. Bizimle insanların ülkeler hakkında bilgi edinmesini sağlayabilirsin. Gel ve bu projeyi birlikte yapalım. Ayrıca projemizde finansal desteğe de ihtiyacımız var. 
+<br>SENİ YANIMIZIDA GORMEK ISTIYORUZ!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Katılım için şu adrese mail atman yeterli! ->  ahmettalhaturkmen2001@gmail.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  
+![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
 
-### `npm run eject`
+## Takım Üyeleri , Yetkinlikleri ve Görevleri
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- ChatGPT - Developer - 
+- Ahmet Talha TURKMEN - React / Html / Css / Javascript / Node.js - Araştırmacı / Kodlayıcı / Github Sorumlusu
+- Seyfettin GOK - React / Html / Css / Javascript / Node.js - Araştırmacı / Kodlayıcı 
+- Mehmet Mert FIDAN - React / Html / Css / Javascript / Node.js - Araştırmacı / İletişim Sorumlusu / Tester
+- Hicran APAYDIN- React / Html / Css / Javascript / Node.js - Araştırmacı / Tasarım / Tester 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+     
+## Projede Kullanılan Teknolojiler
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React
+- Html
+- Css
+- Javascript
+- Tailwind v3.2.7
+- Node.js v18.14.1
 
-## Learn More
+## Projenin Yerel Ortamda Çalışması için Gerekenler
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Node.js
+- Git (git clone için)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Projenin Yerel Ortamda Çalıştırılması
+Kodu kopyala:
+    
+    git clone https://github.com/Country-Showcase-Project/Country-Showcase-Project
+    
+cmd ekranına kodu yapıştır.
 
-### Code Splitting
+sonra kodları cmd ekranına yapıştır:
+     
+     cd Country-Showcase-Project
+     npm install
+     npm start
+     
+Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Proje Ekran Görüntüleri
 
-### Analyzing the Bundle Size
+### 2D Dünya'nın Ekran Görüntüleri
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+... Çok Yakında ...
 
-### Making a Progressive Web App
+### 3D Dünya'nın Ekran Görüntüleri
+![WhatsApp Görsel 2023-04-01 saat 17 45 46](https://user-images.githubusercontent.com/75725469/235316054-070152fd-cde1-4ce3-91a4-754484fca736.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![WhatsApp Görsel 2023-04-01 saat 17 47 03](https://user-images.githubusercontent.com/75725469/235316042-af02693c-ab42-4886-b73a-36f4075e6df5.jpg)
 
-### Advanced Configuration
+![WhatsApp Görsel 2023-04-01 saat 17 47 43](https://user-images.githubusercontent.com/75725469/235316070-681b070f-9840-4c45-b00f-c2ba05ef8c2d.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Proje Durumu 
 
-### Deployment
+[##############...........................] %50
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# [EN]
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A project that visualizes the world map in 2D and 3D and allows users to recognize countries and learn about them.
+
+<h2 align="center">
+BLM0324_Software Engineering Project Assignment
+</h2>
+Project Purpose
+To facilitate learning about countries by visualizing information about countries on the world map. Especially, to enable children to learn new information about countries.
+
+## Project Goals
+- To provide up-to-date information to users.
+- To ensure that the project works in an optimized manner.
+
+## Methodology for Software Development
+We will use the Scrum methodology. This methodology is a development methodology based on Agile methods and includes both development and testing processes at the same time. This approach allows customer feedback to be quickly taken into account and increases the flexibility and rapid response capabilities of the project team.
+
+## We Want to See You With Us!
+Hey! Developer. Yes, you! We invite you to work with us. We know that you have enough capacity. You can help people learn about countries with us. Come on, let's do this project together.Additionally, we need financial support for our project. 
+<br>We Want to See You With Us!
+
+Just send an email to this address to participate! -> ahmettalhaturkmen2001@gmail.com
+
+![uncle_sam_photoshop](https://user-images.githubusercontent.com/75725469/235306557-db12ce4a-070c-4fe8-942c-ebf393aefdd5.png)
+
+
+## Team Members, Skills, and Roles
+- ChatGPT - Developer
+- Ahmet Talha TURKMEN - React / Html / Css / Javascript / Node.js - Researcher / Coder / Github Manager
+- Seyfettin GOK - React / Html / Css / Javascript / Node.js - Researcher / Coder
+- Mehmet Mert FIDAN - React / Html / Css / Javascript / Node.js - Researcher / Communication Manager / Tester
+- Hicran APAYDIN- React / Html / Css / Javascript / Node.js - Researcher / Designer / Tester
+ 
+## Technologies Used in the Project
+- React
+- Html
+- Css
+- Javascript
+- Tailwind v3.2.7
+- Node.js v18.14.1
+## Requirements for Running the Project in a Local Environment
+- Node.js
+- Git (for git clone)
+## Running the Project in a Local Environment
+Copy the code:
+     
+     git clone https://github.com/Country-Showcase-Project/Country-Showcase-Project
+    
+Paste the code into the cmd screen
+
+Then paste the following codes into the cmd screen:
+     
+     cd Country-Showcase-Project
+     npm install
+     npm start
+     
+After doing these, the project should open in a browser page.
+
+## Project Screenshots
+### Screenshots of 2D World
+... Coming Soon ...
+
+### Screenshots of 3D World
+
+![WhatsApp Görsel 2023-04-01 saat 17 45 46](https://user-images.githubusercontent.com/75725469/235316054-070152fd-cde1-4ce3-91a4-754484fca736.jpg)
+
+![WhatsApp Görsel 2023-04-01 saat 17 47 03](https://user-images.githubusercontent.com/75725469/235316042-af02693c-ab42-4886-b73a-36f4075e6df5.jpg)
+
+![WhatsApp Görsel 2023-04-01 saat 17 47 43](https://user-images.githubusercontent.com/75725469/235316070-681b070f-9840-4c45-b00f-c2ba05ef8c2d.jpg)
+
+
+## Project Status 
+
+[##############............................] %50
