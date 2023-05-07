@@ -38,6 +38,36 @@ const GlobeVar = React.memo(() => {
     const [colorScale, setColorScale] = useState(() => d3.scaleSequentialSqrt(d3.interpolateGreens));
 
     const [getVal, setGetVal] = useState(() => feat => 0);
+    const [searchQuery, setSearchQuery] = useState('');
+    const [searchResults, setSearchResults] = useState([]);
+
+
+    const handleSearchChange = useCallback(event => {
+        const inputValue = event.target.value;
+        setSearchQuery(inputValue);
+
+        if (inputValue.length >= 2) {
+            const filteredResults = countriesData.features.filter(
+                feat => feat.properties.ADMIN.toLowerCase().includes(inputValue.toLowerCase())
+            );
+            setSearchResults(filteredResults);
+        } else {
+            setSearchResults([]);
+        }
+    }, [countriesData]);
+
+    const handleSearchSubmit = useCallback(event => {
+        event.preventDefault();
+        const searchResult = countriesData.features.find(
+            feat => feat.properties.ADMIN.toLowerCase() === searchQuery.toLowerCase()
+        );
+        if (searchResult) {
+            setHoverD(searchResult);
+        } else {
+            setHoverD(null);
+        }
+    }, [countriesData, searchQuery]);
+
     const [polygonLabelContent, setPolygonLabelContent] = useState(() => feat => {
         return `
         <div style="background-color: rgba(0, 0, 0, 0.9); padding: 10px; text-align: center;">
@@ -135,6 +165,39 @@ const GlobeVar = React.memo(() => {
                             Basic Country Information
                         </button>
                     </div>
+                    <form onSubmit={handleSearchSubmit} style={{ position: 'absolute', top: '10px', right: '10px', zIndex: 1 }}>
+                        <input
+                            type="text"
+                            value={searchQuery}
+                            onChange={handleSearchChange}
+                            placeholder="Search country..."
+                            className="bg-white rounded-md px-2 py-1 outline-none"
+                        />
+                    </form>
+                    <div style={{ position: 'absolute', top: '50px', right: '10px', zIndex: 1 }}>
+                        {searchResults.map(result => (
+                            <div
+                                key={result.properties.ISO_A2}
+                                onClick={() => setHoverD(result)}
+                                style={{
+                                    cursor: 'pointer',
+                                    backgroundColor: 'white',
+                                    color: 'black',
+                                    padding: '4px',
+                                    marginBottom: '4px',
+                                    width: '200px', // Sabit bir genişlik değeri belirtin
+                                    overflow: 'hidden', // Metinlerin taşmasını engellemek için
+                                    whiteSpace: 'nowrap', // Metinlerin satır atlamasını engellemek için
+                                    textOverflow: 'ellipsis' // Metinlerin aşırı uzamasını önlemek için
+                                }}
+                            >
+                                {result.properties.ADMIN}
+                            </div>
+                        ))}
+                    </div>
+
+
+
                     <Globe
                         globeImageUrl={earthBlueMarble}
                         backgroundImageUrl={nightSky}
