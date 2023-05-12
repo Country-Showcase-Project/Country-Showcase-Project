@@ -1,8 +1,8 @@
 # Country-Showcase-Project
 
-<center>
+<div align="center">
   İLK DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=0tB7hD1hvsc
-</center>
+</div>
 
 # [TR]
 Ülkeleri tanıyabileceğiniz ve ülkeler hakkında bilgi edinebileceğiniz, dünya haritasının 2 boyutlu ve 3 boyutlu olarak görselleştirildiği bir proje.
