@@ -2,8 +2,8 @@
 
 <div align="center">
   İLK DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=0tB7hD1hvsc
+  
   ![logo-black](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/0575756d-98f5-4ff3-97ab-c3b9f997d8f9)
-
 </div>
 
 # [TR]
