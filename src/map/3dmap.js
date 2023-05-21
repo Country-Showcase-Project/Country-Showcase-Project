@@ -196,8 +196,6 @@ const GlobeVar = React.memo(() => {
                         ))}
                     </div>
 
-
-
                     <Globe
                         globeImageUrl={earthBlueMarble}
                         backgroundImageUrl={nightSky}

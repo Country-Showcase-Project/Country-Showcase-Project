@@ -1,9 +1,10 @@
-import MyGlobe from './map/map'
+import World3D from './map/3dmap'
+import World2D from "./map/2dmap"
 
 function App() {
   return (
     <div>
-      <MyGlobe />
+      <World2D />
     </div>
   );
 }
