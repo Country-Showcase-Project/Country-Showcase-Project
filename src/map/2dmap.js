@@ -238,7 +238,7 @@ const Map = () => {
               feature === selectedFeature
                 ? "steelblue"
                 : isBasicInfoClicked
-                  ? "gray"
+                  ? "rgb(252, 251, 253)"
                   : modType === "finance"
                     ? "green"
                     : "orange",
@@ -264,10 +264,10 @@ const Map = () => {
                 setSelectedFeature(null);
                 layer.setStyle({
                   fillColor: isBasicInfoClicked
-                    ? "gray"
+                    ? "rgb(252, 251, 253)"
                     : modType === "finance"
                       ? "green"
-                      : "gray",
+                      : "rgb(252, 251, 253)",
                   fillOpacity: calculateFillOpacity(feature),
                   zIndex: 0,
                 });
