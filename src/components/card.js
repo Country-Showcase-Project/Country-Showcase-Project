@@ -1,8 +1,5 @@
 import React from "react";
-
-function handleRedirect(mapMod) {
-    window.location.href = `/${mapMod}`;
-}
+import { Link } from "react-router-dom";
 
 const Card = ({ title, imageUrl, imageAlt, description, mapMod }) => {
     return (
@@ -19,11 +16,15 @@ const Card = ({ title, imageUrl, imageAlt, description, mapMod }) => {
                     {title}
                     <p className="text-gray-200 text-base">{description}</p>
                     <div className="mt-4">
-                        <button className="bg-gradient-to-br from-yellow-500 via-orange-500 to-blue-500 hover:bg-gradient-to-br hover:from-yellow-600 hover:via-orange-600 hover:to-orange-600 text-white font-bold py-2 px-4 rounded border border-white"
-                            onClick={() => handleRedirect(mapMod)}
-                        >
-                            Start
-                        </button>
+                        <Link
+                            to={{
+                                pathname: `/${mapMod}`,
+                            }}>
+                            <button className="bg-gradient-to-br from-green-500 via-gray-500 to-blue-500 hover:bg-gradient-to-br hover:from-green-600 hover:via-gray-600 hover:to-orange-600 text-white font-bold py-2 px-4 rounded border border-white"
+                            >
+                                Start
+                            </button>
+                        </Link>
                     </div>
                 </div>
             </div>
