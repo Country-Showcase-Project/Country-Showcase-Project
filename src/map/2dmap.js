@@ -156,6 +156,7 @@ const Map = () => {
           left: "10px",
           zIndex: 999,
         }}
+        className="flex flex-col sm:flex-row space-y-6 sm:space-y-0 sm:space-x-4 sm:pt-8 sm:pb-8 mb-24"
       >
         <button
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
@@ -176,7 +177,7 @@ const Map = () => {
           Basic Country Information
         </button>
       </div>
-      <div style={{ position: 'absolute', top: '10px', right: '10px', zIndex: 999 }}>
+      <div style={{ position: 'absolute', top: '10px', right: '10px', zIndex: 999 }} className="space-y-6 sm:space-y-0 sm:space-x-4 sm:pt-8 sm:pb-8 mb-24">
         <input
           type="text"
           value={searchValue}
@@ -184,34 +185,25 @@ const Map = () => {
           placeholder="Search country..."
           className="bg-white rounded-md px-2 py-1 outline-none"
         />
+        <div style={{ position: 'absolute', right: '0px', zIndex: 999 }} className="w-full mt-8">
+          {matchedCountries.length > 0 && searchValue.length >= 3 && (
+            <div className="bg-white rounded text-black p-2 mb-4 max-w-xs overflow-hidden whitespace-nowrap overflow-ellipsis mt-4">
+              {matchedCountries.map((feature) => (
+                <div
+                  key={feature.properties.ISO_A2}
+                  onClick={() => handleCountryClick(feature)}
+                  style={{ cursor: "pointer" }}
+                  className="w-full hover:bg-gray-200"
+                >
+                  {feature.properties.NAME}
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
       </div>
-      <div style={{ position: 'absolute', top: '50px', right: '10px', zIndex: 999 }}>
-        {matchedCountries.length > 0 && searchValue.length >= 2 && (
-          <div
-            style={{
-              cursor: 'pointer',
-              backgroundColor: 'white',
-              color: 'black',
-              padding: '4px',
-              marginBottom: '4px',
-              width: '200px', // Sabit bir genişlik değeri belirtin
-              overflow: 'hidden', // Metinlerin taşmasını engellemek için
-              whiteSpace: 'nowrap', // Metinlerin satır atlamasını engellemek için
-              textOverflow: 'ellipsis' // Metinlerin aşırı uzamasını önlemek için
-            }}
-          >
-            {matchedCountries.map((feature) => (
-              <div
-                key={feature.properties.ISO_A2}
-                onClick={() => handleCountryClick(feature)}
-                style={{ cursor: "pointer" }}
-              >
-                {feature.properties.NAME}
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
+
+
 
 
 

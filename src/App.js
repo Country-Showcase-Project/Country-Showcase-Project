@@ -32,36 +32,42 @@ function App() {
 
 function Home() {
   return (
-    <div className="flex flex-col sm:flex-row space-y-6 sm:space-y-0 sm:space-x-6 sm:pt-8 sm:pb-8 mt-32 mb-24">
-      <Suspense fallback={<LoadingPage />}>
-        <Card
-          title="2D WORLD"
-          imageUrl={World2DImage}
-          imageAlt="Earth 2D"
-          description={
-            <>
-              Continue with 2D WORLD
-              <br />
-              (Recommended for all systems)
-            </>
-          }
-          mapMod="World2DMap"
-        />
-        <Card
-          title="3D WORLD"
-          imageUrl={World3DImage}
-          imageAlt="Earth 3D"
-          description={
-            <>
-              Continue with 3D WORLD
-              <br />
-              (Not recommended for low systems)
-            </>
-          }
-          mapMod="World3DMap"
-        />
-      </Suspense>
+    <div className="flex flex-col items-center mt-6 mb-2">
+      <div className="flex flex-col sm:flex-row space-y-6 sm:space-y-0 sm:space-x-6 sm:pt-8 sm:pb-8">
+        <img src={logoImage} alt="Logo" className="max-w-full h-auto" />
+      </div>
+      <div className="flex flex-col sm:flex-row space-y-6 sm:space-y-0 sm:space-x-6 sm:pt-8 sm:pb-8">
+        <Suspense fallback={<LoadingPage />}>
+          <Card
+            title="2D WORLD"
+            imageUrl={World2DImage}
+            imageAlt="Earth 2D"
+            description={
+              <>
+                Continue with 2D WORLD
+                <br />
+                (Recommended for all systems)
+              </>
+            }
+            mapMod="World2DMap"
+          />
+          <Card
+            title="3D WORLD"
+            imageUrl={World3DImage}
+            imageAlt="Earth 3D"
+            description={
+              <>
+                Continue with 3D WORLD
+                <br />
+                (Not recommended for low systems)
+              </>
+            }
+            mapMod="World3DMap"
+          />
+        </Suspense>
+      </div>
     </div>
+
   );
 }
 

@@ -46,7 +46,7 @@ const GlobeVar = React.memo(() => {
         const inputValue = event.target.value;
         setSearchQuery(inputValue);
 
-        if (inputValue.length >= 2) {
+        if (inputValue.length >= 3) {
             const filteredResults = countriesData.features.filter(
                 feat => feat.properties.ADMIN.toLowerCase().includes(inputValue.toLowerCase())
             );
@@ -154,7 +154,15 @@ const GlobeVar = React.memo(() => {
         (countriesData && countriesInfoData)
             ? (
                 <div style={{ width: '100vw', height: '100vh', position: 'relative' }}>
-                    <div style={{ position: 'absolute', top: '10px', left: '10px', zIndex: 1 }}>
+                    <div
+                        style={{
+                            position: "absolute",
+                            top: "10px",
+                            left: "10px",
+                            zIndex: 999,
+                        }}
+                        className="flex flex-col sm:flex-row space-y-6 sm:space-y-0 sm:space-x-4 sm:pt-8 sm:pb-8 mb-24"
+                    >
                         <button onClick={populationButton} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                             Population
                         </button>
@@ -165,37 +173,31 @@ const GlobeVar = React.memo(() => {
                             Basic Country Information
                         </button>
                     </div>
-                    <form onSubmit={handleSearchSubmit} style={{ position: 'absolute', top: '10px', right: '10px', zIndex: 1 }}>
-                        <input
-                            type="text"
-                            value={searchQuery}
-                            onChange={handleSearchChange}
-                            placeholder="Search country..."
-                            className="bg-white rounded-md px-2 py-1 outline-none"
-                        />
-                    </form>
-                    <div style={{ position: 'absolute', top: '50px', right: '10px', zIndex: 1 }}>
-                        {searchResults.map(result => (
-                            <div
-                                key={result.properties.ISO_A2}
-                                onClick={() => setHoverD(result)}
-                                style={{
-                                    cursor: 'pointer',
-                                    backgroundColor: 'white',
-                                    color: 'black',
-                                    padding: '4px',
-                                    marginBottom: '4px',
-                                    width: '200px', // Sabit bir genişlik değeri belirtin
-                                    overflow: 'hidden', // Metinlerin taşmasını engellemek için
-                                    whiteSpace: 'nowrap', // Metinlerin satır atlamasını engellemek için
-                                    textOverflow: 'ellipsis' // Metinlerin aşırı uzamasını önlemek için
-                                }}
-                            >
-                                {result.properties.ADMIN}
-                            </div>
-                        ))}
+                    <div style={{ position: 'absolute', top: '10px', right: '10px', zIndex: 999 }} className="space-y-6 sm:space-y-0 sm:space-x-4 sm:pt-8 sm:pb-8 mb-24">
+                        <form onSubmit={handleSearchSubmit} >
+                            <input
+                                type="text"
+                                value={searchQuery}
+                                onChange={handleSearchChange}
+                                placeholder="Search country..."
+                                className="bg-white rounded-md px-2 py-1 outline-none"
+                            />
+                        </form>
+                        <div style={{ position: 'absolute', right: '0px', zIndex: 999 }} className="w-full">
+                            {searchResults.map(result => (
+                                <div className="bg-white rounded text-black p-2 mb-4 max-w-xs overflow-hidden whitespace-nowrap overflow-ellipsis mt-4">
+                                    <div
+                                        key={result.properties.ISO_A2}
+                                        onClick={() => setHoverD(result)}
+                                        style={{ cursor: "pointer" }}
+                                        className="w-full hover:bg-gray-200"
+                                    >
+                                        {result.properties.ADMIN}
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
                     </div>
-
                     <Globe
                         globeImageUrl={earthBlueMarble}
                         backgroundImageUrl={nightSky}
