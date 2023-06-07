@@ -5,8 +5,8 @@ import "../styles/mapStyle.css"
 
 function FailPage() {
   return (
-    <div className="error-container">
-      <div style={{ display: "flex", alignItems: "center" }}>
+    <div className="flex flex-col items-center mt-0 mb-0">
+      <div style={{ display: "flex", alignItems: "center" }} className="flex flex-col sm:flex-row space-y-0 sm:space-y-0 sm:space-x-6 sm:pt-8 sm:pb-8">
         <p
           style={{
             flex: 1,
