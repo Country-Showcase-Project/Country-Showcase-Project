@@ -100,8 +100,9 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 
 # [EN]
 
-
 A project that visualizes the world map in 2D and 3D and allows users to recognize countries and learn about them.
+
+To try out the project, visit: https://countryshowcaseproject.netlify.app/
 
 <h2 align="center">
 BLM0324_Software Engineering Project Assignment
