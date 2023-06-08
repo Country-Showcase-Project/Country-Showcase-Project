@@ -11,11 +11,11 @@
     
 </div>
 
-<big> 
+<font size="3"> 
   
   Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr).
 
-</big> 
+</font> 
  
 Click [here](https://github.com/Country-Showcase-Project/Country-Showcase-Project#en) for English.
 
