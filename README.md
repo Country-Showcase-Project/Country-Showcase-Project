@@ -83,6 +83,8 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 
 ## Proje Ekran Görüntüleri
 
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ee5cfe6b-7535-40b3-94e4-d5adac5f01f5)
+
 ### 2D Dünya'nın Ekran Görüntüleri
 
 ... Çok Yakında ...
