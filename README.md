@@ -108,6 +108,17 @@ Mobil cihazlarda
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/882bb813-f97f-4069-ad29-672b218f7640)
 
+<div align="center">
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/56a1ecd0-9a0e-4bde-9533-57fdf4b4178c)
+
+Mobil cihazlarda
+  
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/9989b28e-e59d-44b9-87b4-da0b97450310)
+  
+Mobil cihazlarda
+    
+</div>
+
 
 ### 3D Dünya'nın Ekran Görüntüleri
 
