@@ -194,6 +194,23 @@ Then paste the following codes into the cmd screen:
 After doing these, the project should open in a browser page.
 
 ## Project Screenshots
+
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ee5cfe6b-7535-40b3-94e4-d5adac5f01f5)
+
+<div align="center">
+
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/e18b9dd4-1016-4379-ad41-a48a1c3add66)
+  
+Mobil cihazlarda
+  
+![ezgif com-video-to-gif](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/974898b2-85db-43cc-a38b-116426c6d249)
+  
+![ezgif com-video-to-gif (1)](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ed1724fe-a5e4-4382-b58e-7543a59f451b)
+
+Mobil cihazlarda
+  
+</div>
+
 ### Screenshots of 2D World
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/6db12a15-60e0-41b8-a15f-b2e34809a5e5)
