@@ -7,6 +7,7 @@
   ![logo-no-background](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/8497de0e-8ca8-4dbc-b373-62b879935e79)
   
   İLK DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=0tB7hD1hvsc
+  İKİNCİ DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=rP2hhqUh6_A
 </div>
 
 # [TR]
