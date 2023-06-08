@@ -8,6 +8,10 @@
   
   İLK DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=0tB7hD1hvsc <br/>
   İKİNCİ DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=rP2hhqUh6_A
+  
+  Türkçe için tıklayınız:
+  
+  İngilizce için tıklayınız:
 </div>
 
 # [TR]
