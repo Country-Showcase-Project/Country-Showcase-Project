@@ -11,7 +11,7 @@
     
 </div>
 
-<font size="3"> 
+<font size="5"> 
   
   Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr).
 
