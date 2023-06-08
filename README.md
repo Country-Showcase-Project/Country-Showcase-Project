@@ -11,7 +11,11 @@
     
 </div>
 
-** Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr).
+<big> 
+  
+  Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr).
+
+</big> 
  
 Click [here](https://github.com/Country-Showcase-Project/Country-Showcase-Project#en) for English.
 
