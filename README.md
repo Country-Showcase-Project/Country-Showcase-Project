@@ -201,13 +201,13 @@ After doing these, the project should open in a browser page.
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/e18b9dd4-1016-4379-ad41-a48a1c3add66)
   
-Mobil cihazlarda
+On mobile devices
   
 ![ezgif com-video-to-gif](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/974898b2-85db-43cc-a38b-116426c6d249)
   
 ![ezgif com-video-to-gif (1)](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ed1724fe-a5e4-4382-b58e-7543a59f451b)
 
-Mobil cihazlarda
+On mobile devices
   
 </div>
 
@@ -219,15 +219,26 @@ Mobil cihazlarda
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/882bb813-f97f-4069-ad29-672b218f7640)
 
+<div align="center">
+  
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/56a1ecd0-9a0e-4bde-9533-57fdf4b4178c)
+
+On mobile devices
+  
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/9989b28e-e59d-44b9-87b4-da0b97450310)
+  
+On mobile devices
+  
+</div>
+    
 ### Screenshots of 3D World
 
-![WhatsApp Görsel 2023-04-01 saat 17 45 46](https://user-images.githubusercontent.com/75725469/235316054-070152fd-cde1-4ce3-91a4-754484fca736.jpg)
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/b0592151-7fb8-45c9-ab0e-32491f3d36f9)
 
-![WhatsApp Görsel 2023-04-01 saat 17 47 03](https://user-images.githubusercontent.com/75725469/235316042-af02693c-ab42-4886-b73a-36f4075e6df5.jpg)
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/05eb4851-dcce-4ccd-9275-35457e0638df)
 
-![WhatsApp Görsel 2023-04-01 saat 17 47 43](https://user-images.githubusercontent.com/75725469/235316070-681b070f-9840-4c45-b00f-c2ba05ef8c2d.jpg)
-
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/b7bc1242-051b-40bf-bb51-38d325a74e9e)
 
 ## Project Status 
 
-[##############............................] %50
+[###################################] %100
