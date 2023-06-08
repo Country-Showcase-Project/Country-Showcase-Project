@@ -85,6 +85,8 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ee5cfe6b-7535-40b3-94e4-d5adac5f01f5)
 
+https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/79d51a5e-21ea-422f-9652-c4513e527a0e
+
 ### 2D Dünya'nın Ekran Görüntüleri
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/6db12a15-60e0-41b8-a15f-b2e34809a5e5)
