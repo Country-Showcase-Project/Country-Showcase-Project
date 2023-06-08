@@ -9,9 +9,9 @@
   İLK DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=0tB7hD1hvsc <br/>
   İKİNCİ DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=rP2hhqUh6_A
   
-  Türkçe için tıklayınız: https://github.com/Country-Showcase-Project/Country-Showcase-Project/blob/main/README.md#tr
-  
-  İngilizce için tıklayınız: https://github.com/Country-Showcase-Project/Country-Showcase-Project/blob/main/README.md#en
+  Türkçe için tıklayınız: https://github.com/Country-Showcase-Project/Country-Showcase-Project/tree/main#tr
+ 
+  İngilizce için tıklayınız: https://github.com/Country-Showcase-Project/Country-Showcase-Project/tree/main#en
 </div>
 
 # [TR]
