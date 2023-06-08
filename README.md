@@ -87,7 +87,7 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 
 ### 2D Dünya'nın Ekran Görüntüleri
 
-... Çok Yakında ...
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/6db12a15-60e0-41b8-a15f-b2e34809a5e5)
 
 ### 3D Dünya'nın Ekran Görüntüleri
 ![WhatsApp Görsel 2023-04-01 saat 17 45 46](https://user-images.githubusercontent.com/75725469/235316054-070152fd-cde1-4ce3-91a4-754484fca736.jpg)
