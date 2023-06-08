@@ -8,12 +8,12 @@
   
   İLK DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=0tB7hD1hvsc <br/>
   İKİNCİ DEMO PROTOTİP VİDEOSU : https://www.youtube.com/watch?v=rP2hhqUh6_A
-  
-  Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr).
- 
-  Click [here](https://github.com/Country-Showcase-Project/Country-Showcase-Project#en) for English.
-  
+    
 </div>
+
+Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr).
+ 
+Click [here](https://github.com/Country-Showcase-Project/Country-Showcase-Project#en) for English.
 
 # [TR]
 Ülkeleri tanıyabileceğiniz ve ülkeler hakkında bilgi edinebileceğiniz, dünya haritasının 2 boyutlu ve 3 boyutlu olarak görselleştirildiği bir proje.
