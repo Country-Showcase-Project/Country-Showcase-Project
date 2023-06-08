@@ -93,7 +93,11 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 Mobil cihazlarda
   
 ![ezgif com-video-to-gif](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/974898b2-85db-43cc-a38b-116426c6d249)
+  
+![ezgif com-video-to-gif (1)](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ed1724fe-a5e4-4382-b58e-7543a59f451b)
 
+Mobil cihazlarda
+  
 </div>
 
 ### 2D Dünya'nın Ekran Görüntüleri
@@ -106,15 +110,16 @@ Mobil cihazlarda
 
 
 ### 3D Dünya'nın Ekran Görüntüleri
-![WhatsApp Görsel 2023-04-01 saat 17 45 46](https://user-images.githubusercontent.com/75725469/235316054-070152fd-cde1-4ce3-91a4-754484fca736.jpg)
 
-![WhatsApp Görsel 2023-04-01 saat 17 47 03](https://user-images.githubusercontent.com/75725469/235316042-af02693c-ab42-4886-b73a-36f4075e6df5.jpg)
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/b0592151-7fb8-45c9-ab0e-32491f3d36f9)
 
-![WhatsApp Görsel 2023-04-01 saat 17 47 43](https://user-images.githubusercontent.com/75725469/235316070-681b070f-9840-4c45-b00f-c2ba05ef8c2d.jpg)
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/05eb4851-dcce-4ccd-9275-35457e0638df)
+
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/b7bc1242-051b-40bf-bb51-38d325a74e9e)
 
 ## Proje Durumu 
 
-[##############...........................] %50
+[###################################] %100
 
 # [EN]
 
