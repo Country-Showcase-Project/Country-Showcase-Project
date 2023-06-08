@@ -167,7 +167,12 @@ After doing these, the project should open in a browser page.
 
 ## Project Screenshots
 ### Screenshots of 2D World
-... Coming Soon ...
+
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/6db12a15-60e0-41b8-a15f-b2e34809a5e5)
+
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/a8a97d1e-334a-48ba-8fef-4052c5af93d6)
+
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/882bb813-f97f-4069-ad29-672b218f7640)
 
 ### Screenshots of 3D World
 
