@@ -11,7 +11,7 @@
   
   Türkçe için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#tr)
  
-  İngilizce için tıklayınız: https://github.com/Country-Showcase-Project/Country-Showcase-Project#en
+  İngilizce için [tıklayınız](https://github.com/Country-Showcase-Project/Country-Showcase-Project#en)
 </div>
 
 # [TR]
