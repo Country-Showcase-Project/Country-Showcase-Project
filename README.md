@@ -85,11 +85,13 @@ Bunları yaptıktan sonra proje bir tarayıcı sayfasında açılması gerekir.
 
 ![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/ee5cfe6b-7535-40b3-94e4-d5adac5f01f5)
 
-![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/e18b9dd4-1016-4379-ad41-a48a1c3add66)
-
 
 <div align="center">
 
+![image](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/e18b9dd4-1016-4379-ad41-a48a1c3add66)
+  
+Mobil cihazlarda
+  
 ![ezgif com-video-to-gif](https://github.com/Country-Showcase-Project/Country-Showcase-Project/assets/75725469/974898b2-85db-43cc-a38b-116426c6d249)
 
 </div>
